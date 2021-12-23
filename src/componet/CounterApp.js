@@ -18,7 +18,7 @@ const CounterApp = ({ value }) => {
 
   return (
     <>
-      <h1>CounterApp</h1>
+      <h1>CounterApp ad</h1>
       <h3>{counter}</h3>
 
       <button onClick={handleAdd}> + 1 ...</button>
